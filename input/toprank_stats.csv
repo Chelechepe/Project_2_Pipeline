@@ -1,0 +1,46 @@
+Player,Position,Team,Player,Position,Team,Eisenberg_ranking,Richards_ranking,Cummings_ranking,My_Ranking,Nickname,Full Name,Overall Rating,Position,Age,Speed,Acceleration,Awareness,Agility,Strength,Throw Power,Stamina,Carrying,Catching,Jumping,Tackle,Injury,Jersey Number, Total Salary , Signing Bonus ,Years Pro,Height,Weight,Birthdate,College,Player,Team
+C. Kupp,WR,LAR,C. Kupp,WR,LAR,4,8,2,4.67,Rams,Cooper Kupp,89,WR,27,88,91,93,95,65,48,88,78,95,78,31,89,10,"$4,070,000.00 ","$950,000.00 ",3,74,208,6/15/1993,Eastern Wash.,C. Kupp,LAR
+J. Jefferson,WR,MIN,J. Jefferson,WR,MIN,7,9,5,7.0,Vikings,Justin Jefferson,74,WR,21,91,90,73,89,56,29,85,74,83,89,36,89,18,"$13,120,000.00 ","$7,100,000.00 ",0,73,202,6/16/1999,LSU,J. Jefferson,MIN
+T. Kelce,TE,KC,T. Kelce,TE,KC,11,14,11,12.0,Chiefs,Travis Kelce,97,TE,30,85,88,98,87,79,64,98,68,90,92,45,88,87,"$36,050,000.00 ","$11,100,000.00 ",7,77,260,10/5/1989,Cincinnati,T. Kelce,KC
+S. Diggs,WR,BUF,S. Diggs,WR,BUF,12,13,14,13.0,Bills,Stefon Diggs,92,WR,26,92,94,92,93,62,46,86,71,92,89,27,87,14,"$47,910,000.00 ","$17,060,000.00 ",5,72,191,11/29/1993,Maryland,S. Diggs,BUF
+M. Andrews,TE,BAL,M. Andrews,TE,BAL,23,26,12,20.33,Ravens,Mark Andrews,86,TE,24,86,90,92,80,79,25,94,73,86,88,27,88,89,"$2,620,000.00 ","$820,000.00 ",2,77,253,9/6/1995,Oklahoma,M. Andrews,BAL
+M. Evans,WR,TB,M. Evans,WR,TB,18,20,24,20.67,Buccaneers,Mike Evans,92,WR,27,91,90,98,85,79,35,97,76,90,97,39,91,13,"$49,250,000.00 ","$46,510,000.00 ",6,77,231,8/21/1993,Texas AM,M. Evans,TB
+C. Lamb,WR,DAL,C. Lamb,WR,DAL,15,21,26,20.67,Cowboys,CeeDee Lamb,75,WR,21,90,90,76,90,69,37,90,74,84,86,38,93,88,"$14,000,000.00 ","$7,740,000.00 ",0,74,198,4/8/1999,Oklahoma,C. Lamb,DAL
+K. Allen,WR,LAC,K. Allen,WR,LAC,19,24,23,22.0,Chargers,Keenan Allen,91,WR,28,89,91,96,92,72,35,95,80,90,92,34,83,13,"$40,160,000.00 ","$10,670,000.00 ",7,74,211,4/27/1992,California,K. Allen,LAC
+D. Samuel,WR,SF,D. Samuel,WR,SF,27,22,25,24.67,49ers,Deebo Samuel,80,WR,24,92,91,84,87,76,39,79,73,84,92,46,91,19,"$3,010,000.00 ","$4,230,000.00 ",1,71,215,1/15/1996,South Carolina,D. Samuel,SF
+D. Moore,WR,CAR,D. Moore,WR,CAR,25,34,22,27.0,Panthers,D.J. Moore,85,WR,23,93,93,92,93,66,43,88,73,91,94,30,93,12,"$4,970,000.00 ","$6,200,000.00 ",2,71,215,4/14/1997,Maryland,D. Moore,CAR
+M. Pittman,WR,IND,M. Pittman,WR,IND,24,33,30,29.0,Colts,Michael Pittman Jr,71,WR,22,87,88,71,85,70,48,85,76,85,88,55,86,86,"$3,390,000.00 ","$5,230,000.00 ",0,76,223,10/5/1997,USC,M. Pittman,IND
+T. Higgins,WR,CIN,T. Higgins,WR,CIN,28,29,32,29.67,Bengals,Tee Higgins,71,WR,21,87,86,75,84,66,28,82,76,82,87,33,88,85,"$8,690,000.00 ","$3,870,000.00 ",0,76,216,1/18/1999,Clemson,T. Higgins,CIN
+B. Cooks,WR,HOU,B. Cooks,WR,HOU,36,35,29,33.33,Texans,Brandin Cooks,85,WR,26,94,91,86,94,54,34,87,74,88,85,25,86,13,"$53,960,000.00 ","$13,700,000.00 ",6,70,183,9/25/1993,Oregon State,B. Cooks,HOU
+J. Allen,QB,BUF,J. Allen,QB,BUF,35,41,46,40.67,Bills,Josh Allen,77,QB,24,85,87,75,85,73,99,84,53,33,90,32,87,17,"$7,700,000.00 ","$13,480,000.00 ",2,77,233,5/21/1996,Wyoming,J. Allen,BUF
+T. McLaurin,WR,WAS,T. McLaurin,WR,WAS,42,45,41,42.67,Redskins,Terry McLaurin,82,WR,23,94,92,85,86,67,32,87,77,86,87,41,91,17,"$2,840,000.00 ","$1,000,000.00 ",1,72,208,9/15/1996,Ohio State,T. McLaurin,WAS
+D. Waller,TE,LV,D. Waller,TE,LV,40,39,50,43.0,Raiders,Darren Waller,85,TE,27,89,89,86,84,70,35,91,73,93,87,32,91,83,"$27,800,000.00 ","$2,720,000.00 ",4,78,255,9/13/1992,Georgia Tech,D. Waller,LV
+D. Johnson,WR,PIT,D. Johnson,WR,PIT,43,55,33,43.67,Steelers,Diontae Johnson,76,WR,24,91,92,79,92,59,53,84,72,86,84,29,89,18,"$3,150,000.00 ","$1,120,000.00 ",1,70,181,7/5/1996,Toledo,D. Johnson,PIT
+C. Godwin,WR,TB,C. Godwin,WR,TB,54,38,42,44.67,Buccaneers,Chris Godwin,88,WR,24,91,92,94,91,72,33,88,73,97,88,27,97,14,"$3,880,000.00 ","$760,000.00 ",3,73,205,2/27/1996,Penn State,C. Godwin,TB
+M. Williams,WR,LAC,M. Williams,WR,LAC,46,50,44,46.67,Chargers,Mike Williams,81,WR,25,89,87,85,84,75,26,89,76,86,83,37,84,81,"$5,090,000.00 ","$30,440,000.00 ",3,76,220,10/4/1994,Clemson,M. Williams,LAC
+J. Herbert,QB,LAC,J. Herbert,QB,LAC,51,46,47,48.0,Chargers,Justin Herbert,70,QB,22,82,87,70,80,71,92,86,69,39,82,29,88,10,"$26,500,000.00 ","$16,890,000.00 ",0,78,236,3/10/1998,Oregon,J. Herbert,LAC
+P. Mahomes,QB,KC,P. Mahomes,QB,KC,52,47,48,49.0,Chiefs,Patrick Mahomes,99,QB,24,81,87,97,88,69,97,96,63,37,74,26,95,15,"$6,840,000.00 ","$34,420,000.00 ",3,75,230,9/17/1995,Texas Tech,P. Mahomes,KC
+G. Kittle,TE,SF,G. Kittle,TE,SF,41,61,58,53.33,49ers,George Kittle,98,TE,26,88,89,94,84,82,30,92,79,98,91,34,88,85,"$3,830,000.00 ","$280,000.00 ",3,76,250,10/9/1993,Iowa,G. Kittle,SF
+D. Mooney,WR,CHI,D. Mooney,WR,CHI,56,59,45,53.33,Bears,Darnell Mooney,66,WR,22,93,92,62,84,51,23,91,73,77,88,30,85,11,"$2,917,050.00 ","$280,000.00 ",0,70,176,10/29/1997,Tulane,D. Mooney,CHI
+D. Metcalf,WR,SEA,D. Metcalf,WR,SEA,57,49,56,54.0,Seahawks,D.K. Metcalf,79,WR,22,95,93,81,81,78,34,85,77,82,96,33,81,14,"$3,030,000.00 ","$1,550,000.00 ",1,75,229,12/14/1997,Ole Miss,D. Metcalf,SEA
+C. Sutton,WR,DEN,C. Sutton,WR,DEN,47,54,64,55.0,Broncos,Courtland Sutton,84,WR,24,89,92,82,92,73,62,89,76,92,92,33,91,14,"$3,780,000.00 ","$3,040,000.00 ",2,75,218,10/10/1995,SMU,C. Sutton,DEN
+A. Thielen,WR,MIN,A. Thielen,WR,MIN,61,58,52,57.0,Vikings,Adam Thielen,90,WR,30,90,92,93,92,67,51,90,73,95,91,32,90,19,"$63,000,000.00 ","$15,810,000.00 ",7,74,200,8/22/1990,Minnesota State,A. Thielen,MIN
+M. Thomas,WR,NO,M. Thomas,WR,NO,58,66,54,59.33,Saints,Michael Thomas,99,WR,27,89,92,99,92,77,24,99,77,99,94,27,93,13,"$62,750,000.00 ","$35,130,000.00 ",4,75,212,3/3/1993,Ohio State,M. Thomas,NO
+L. Jackson,QB,BAL,L. Jackson,QB,BAL,72,53,59,61.33,Ravens,Lamar Jackson,94,QB,23,96,96,95,95,62,92,92,71,26,91,35,92,8,"$4,500,000.00 ","$4,960,000.00 ",2,74,212,1/7/1997,Louisville,L. Jackson,BAL
+G. Davis,WR,BUF,G. Davis,WR,BUF,59,56,77,64.0,Bills,Gabriel Davis,69,WR,21,89,88,68,83,67,31,90,75,82,83,33,91,3,"$3,300,000.00 ","$680,000.00 ",0,74,210,4/1/1999,UCF,G. Davis,BUF
+J. Jeudy,WR,DEN,J. Jeudy,WR,DEN,60,65,78,67.67,Broncos,Jerry Jeudy,75,WR,21,91,93,76,93,64,27,89,75,81,84,29,90,10,"$15,190,000.00 ","$8,600,000.00 ",0,73,193,4/24/1999,Alabama,J. Jeudy,DEN
+D. Schultz,TE,DAL,D. Schultz,TE,DAL,66,64,75,68.33,Cowboys,Dalton Schultz,67,TE,24,81,87,71,81,76,24,79,67,78,78,29,91,86,"$2,460,000.00 ","$440,000.00 ",2,77,244,7/11/1996,Stanford,D. Schultz,DAL
+J. Hurts,QB,PHI,J. Hurts,QB,PHI,71,76,60,69.0,Eagles,Jalen Hurts,68,QB,22,86,89,65,88,72,84,87,66,66,86,37,91,2,"$6,025,168.00 ","$1,940,000.00 ",0,73,222,8/7/1998,Oklahoma,J. Hurts,PHI
+K. Murray,QB,ARI,K. Murray,QB,ARI,77,75,72,74.67,Cardinals,Kyler Murray,77,QB,23,91,92,73,90,51,90,89,68,50,61,34,88,1,"$2,000,000.00 ","$33,160,000.00 ",1,70,207,8/7/1997,Oklahoma,K. Murray,ARI
+T. Brady,QB,TB,T. Brady,QB,TB,89,77,61,75.67,Buccaneers,Tom Brady,90,QB,43,60,66,91,70,64,90,99,67,39,47,32,99,12,"$1,000,000.00 ","$49,000,000.00 ",20,76,225,8/3/1977,Michigan,T. Brady,TB
+T. Hockenson,TE,DET,T. Hockenson,TE,DET,88,70,88,82.0,Lions,T.J. Hockenson,77,TE,23,82,87,72,84,76,28,83,75,84,89,46,91,88,"$2,000,000.00 ","$17,820,000.00 ",1,77,251,7/3/1997,Iowa,T. Hockenson,DET
+D. Goedert,TE,PHI,D. Goedert,TE,PHI,85,88,80,84.33,Eagles,Dallas Goedert,81,TE,25,83,87,75,84,76,27,85,75,83,84,37,90,88,"$3,460,000.00 ","$2,160,000.00 ",2,76,260,1/3/1995,S. Dakota St.,D. Goedert,PHI
+D. Hopkins,WR,ARI,D. Hopkins,WR,ARI,83,85,85,84.33,Cardinals,DeAndre Hopkins,98,WR,28,91,91,98,92,77,35,98,75,98,99,52,96,10,"$81,420,000.00 ","$4,500,000.00 ",7,73,212,6/6/1992,Clemson,D. Hopkins,ARI
+A. Lazard,WR,GB,A. Lazard,WR,GB,73,80,102,85.0,Packers,Allen Lazard,71,WR,24,87,90,78,81,70,21,83,75,83,90,35,81,13,"$680,000.00 ", $-   ,2,77,227,12/11/1995,Iowa State,A. Lazard,GB
+T. Lockett,WR,SEA,T. Lockett,WR,SEA,84,96,76,85.33,Seahawks,Tyler Lockett,88,WR,27,93,92,91,97,50,30,89,73,93,85,25,86,16,"$23,660,000.00 ","$9,200,000.00 ",5,70,182,9/28/1992,Kansas State,T. Lockett,SEA
+H. Renfrow,WR,LV,H. Renfrow,WR,LV,93,90,86,89.67,Raiders,Hunter Renfrow,74,WR,24,86,88,80,87,61,44,89,78,86,84,44,86,13,"$2,540,000.00 ","$290,000.00 ",1,70,185,12/25/1995,Clemson,H. Renfrow,LV
+D. Prescott,QB,DAL,D. Prescott,QB,DAL,100,86,87,91.0,Cowboys,Dak Prescott,84,QB,27,83,86,87,84,75,89,95,66,33,73,42,95,4,"$28,730,000.00 ", $-   ,4,74,238,7/29/1993,Mississippi St.,D. Prescott,DAL
+J. Burrow,QB,CIN,J. Burrow,QB,CIN,101,110,105,105.33,Bengals,Joe Burrow,76,QB,23,83,86,77,82,68,86,88,67,40,74,36,95,9,"$36,190,137.00 ","$23,880,000.00 ",0,76,221,12/10/1996,LSU,J. Burrow,CIN
+T. Patrick,WR,DEN,T. Patrick,WR,DEN,106,97,128,110.33,Broncos,Tim Patrick,70,WR,26,90,91,78,85,69,36,77,69,81,89,35,77,81,"$750,000.00 ", $-   ,3,76,210,11/23/1993,Utah,T. Patrick,DEN
+M. Gallup,WR,DAL,M. Gallup,WR,DAL,113,117,109,113.0,Cowboys,Michael Gallup,81,WR,24,91,90,86,88,68,25,86,76,81,93,32,90,13,"$2,630,000.00 ","$880,000.00 ",2,73,198,4/4/1996,Colorado St.,M. Gallup,DAL
+T. Boyd,WR,CIN,T. Boyd,WR,CIN,120,137,133,130.0,Bengals,Tyler Boyd,83,WR,25,89,92,91,87,63,52,85,75,89,88,24,87,83,"$33,200,000.00 ","$11,120,000.00 ",4,74,203,11/15/1994,Pittsburgh,T. Boyd,CIN

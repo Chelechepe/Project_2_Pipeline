@@ -52,3 +52,13 @@ def select_html(html,tag):
     from bs4 import BeautifulSoup
     sample = html.select(tag)
     return sample
+
+def setcanvas():
+    """this prepare and birn everything necesary to plot"""
+
+    sns.set_context("poster")
+    sns.set(rc={"figure.figsize": (12.,6.)})
+    sns.set_style("whitegrid")
+    
+    pass
+
