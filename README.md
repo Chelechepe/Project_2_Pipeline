@@ -11,7 +11,7 @@
 ## Hypothesis:
 #
 
-Use the 3 diferent experts ratings for top ranked players and add their overall rating stats to select the best player to draft within a budget cap. can we select the best posible draft out of this corrolation?
+Use the 3 diferent experts ratings for top ranked players and add their overall rating stats to select the best player to draft within a budget cap. can we select the best posible draft out of this corrolation, and if there are any indication of which characteristics of the players i should prioritize when drafting to have the best posible outcome?
 #
 
 ### Lets try and avoid dropping the ball!
@@ -108,20 +108,52 @@ Lets Get Started with the Visuals!
 ## Visualization and Storytelling:
 #
 
+Having the Data base ready for analysis we can proceed to check the numerical variables and see if there is any corrolation between them to enfasize our analisis on thos variables that have some kind of relationship. it is important to understand that the corrolation does not mean causality. 
+
+![local_picture](./Images/Corrolation.png)
+
+As seen in the graph bellow there strong corrolation of age and some key perfomance statistics.
+
+Lets check how age, years players, salary and awareness take a play into havin better selection of players. it apears that there is an increase of awarenes with age and that higher awareness gives can result in a higher salary for the player which can affect the teams salary cap. so we are looking for a player that doesnt have many years pro but a relatively good awareness so that it wont take a hit on the teams salary cap. 
+
+![local_picture](./Images/HighCorrolationVar.png)
+
+Lets check a bar plot with the dispesion of salary and overall stats rating. this shows that the better the overall stats the more likely a player will have a greater salary, for a cost concious team it wouldnt be recomended to draft the best overall player because it can impact directly into the teams cap and limit a good overall player that can contribute to the teams consistency output. 
+
+![local_picture](./Images/salary_rating.png)
+
+When looking to a dispersion of the ranking i made and the years a player has in the league linked to the position played and the salary receive. we can observe that there are some highly ranked players that are not expensive and can probably perform in a cost consious team. so we are looking for players in the red square displayed in the following image. 
+
+![local_picture](./Images/RankingvsSalary.png)
+
+Also taking into account that WR position seems to be the most expensive position to aquire the low cost players will fly off the board faster thus it would be recomended for the priority while drafting be the WR players that are most cost effective. 
+
+![local_picture](./Images/salary_by_position.png)
+
+Also, the main variables of the players attributes seem to be the highest at the position WR. 
+
+![local_picture](./Images/Performance_by_positions.png)
+
+We would want to draft playesr whose performance is withing a range of 80 to 90 points out of the 100. this to make sure that our player isnt the best but has the ability to develo if he is young.
+
+![local_picture](./Images/Performance.png)
+
+
+
+
 
 
 #
 ## Conclusion and Recomendations:
 #
 
+For the Draft out of the top 50 players available given the ratings of experts and the rating of abilities of players we can conclude that:
+
+the priority of the drat should be WR that are young and within 5 years in the league with attributes in the ranges of 80 and 90 that most likely will have salaries that are in range of a salary cap concious team.
+
+LET'S DRAFT BABY!
+
 <p align="center">
   <img width="500" height="300" src= ./images/football-dance.gif
 </p>
 
-
-
-create line break:
-1.Surfing<br/>
-
-make bold:
-**Swimming**:
