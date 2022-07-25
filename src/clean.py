@@ -6,7 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 import re
 
 def check (dict_, key, string_):
@@ -62,3 +61,4 @@ def setcanvas():
     
     pass
 
+print('hello')
